@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+Quick first try, not main project
 Simulating disease dynamics 
 """
 
